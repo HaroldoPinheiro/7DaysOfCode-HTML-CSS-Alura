@@ -44,7 +44,7 @@
     color: var(--cinza-texto);
 }
 .navBar__login-entrar:hover{
-    background: var(--cinza-texto);
+    background: var(--cinza-borda);
     color: var(--cinza-titulo);
 }
 .navBar__login-cadastrar{

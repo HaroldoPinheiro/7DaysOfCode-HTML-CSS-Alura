@@ -1,0 +1,33 @@
+.valores{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 32px;
+    padding: 0px 112px 96px 112px;
+    font-family: var(--fonte-principal);
+}
+
+.valores__div{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.valores__titulo{
+    font-size: 3.75em;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.valores__sub-titulo{
+    font-size: 1.125em;
+    font-weight: 500;
+    color: var(--cinza-titulo);
+    margin: 12px 0px 8px 0px;
+}
+
+.valores__texto{
+    font-size: 1em;
+    font-weight: 400;
+    color: var(--cinza-texto);
+}

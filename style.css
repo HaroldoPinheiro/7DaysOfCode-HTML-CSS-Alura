@@ -1,4 +1,8 @@
 @import url(/styles/header.css);
+@import url(/styles/sobrenos.css);
+@import url(/styles/valores.css);
+@import url(/styles/talentos.css);
+@import url(/styles/vagas.css);
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 :root{
@@ -7,7 +11,9 @@
     --cinza-h1: #3A404E;
     --cinza-texto: #667085;
     --cinza-titulo: #101828;
+    --cinza-borda: #EAECF0;
     --vermelho: #8E2424;
+    --vermelho-opaco: rgb(142, 36, 36, 0.05);
     --vermelho-hover: #d84a4a;
 }
 
