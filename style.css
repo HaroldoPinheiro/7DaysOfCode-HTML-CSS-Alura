@@ -3,6 +3,7 @@
 @import url(/styles/valores.css);
 @import url(/styles/talentos.css);
 @import url(/styles/vagas.css);
+@import url(/styles/colaboladores.css);
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 :root{
@@ -15,6 +16,7 @@
     --vermelho: #8E2424;
     --vermelho-opaco: rgb(142, 36, 36, 0.05);
     --vermelho-hover: #d84a4a;
+    --vermelho-card: rgb(195, 25, 25, 0.03);
 }
 
 *{

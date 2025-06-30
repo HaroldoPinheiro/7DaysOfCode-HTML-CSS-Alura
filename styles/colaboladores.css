@@ -1,0 +1,47 @@
+.colaboladores{
+    padding: 0px 112px 96px 112px;
+    font-family: var(--fonte-principal);
+}
+
+.colaboladores__card{
+    background-color: var(--vermelho-card);
+    padding: 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 16px;
+}
+
+.card__sub-titulo{
+    color: var(--vermelho);
+    font-size: 0.875em;
+    font-weight: 600;
+}
+
+.card__titulo{
+    color: var(--cinza-titulo);
+    font-size: 2.25em;
+    font-weight: 500;
+    margin-top: 16px;
+}
+
+.card__icone{
+    width: auto;
+    margin-top: 32px;
+}
+
+.card__nome{
+    color: var(--cinza-titulo);
+    font-size: 1em;
+    font-weight: 500;
+    margin-top: 16px;
+}
+
+.card__funcao{
+    color: var(--cinza-texto);
+    font-size: 0.875em;
+    font-weight: 400;
+    margin-top: 4px;
+}
